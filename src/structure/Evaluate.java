@@ -1,4 +1,4 @@
-package libs.Stacks;
+package structure;
 
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;

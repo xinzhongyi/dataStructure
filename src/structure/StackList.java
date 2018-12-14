@@ -1,4 +1,4 @@
-package libs.Stacks;
+package structure;
 
 import java.util.Iterator;
 

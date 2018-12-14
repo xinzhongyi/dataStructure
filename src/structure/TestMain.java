@@ -1,10 +1,9 @@
-package libs.Stacks;
+package structure;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import java.util.Iterator;
-import java.util.Queue;
 
 /**
  * Created by dh on 2018/12/13.
